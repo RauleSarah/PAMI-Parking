@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Parking</string>
+    <string name="QTDE_HORAS">Qtde Horas</string>
+    <string name="VALOR_HORA">Valor Hora</string>
+    <string name="HORA_ADICIONAL">Hora Adicional</string>
+    <string name="CALCULAR">Calcular</string>
+    <string name="TOTAL">Total</string>
+</resources>
